@@ -9,3 +9,4 @@ def randomNumbers():
     return int(value, 2)
 
 print(randomNumbers())
+
